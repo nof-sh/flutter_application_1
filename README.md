@@ -1,16 +1,12 @@
-# flutter_application_1
+# Basic-Flutter-App
+A small extension of the basic application that comes with opening a new project in flutter.
 
-A new Flutter project.
+# The expansion I made
+3 pages:
 
-## Getting Started
+1 - The basic application provided when opening a project - a button to press and the number of clicks on the button scheme.
 
-This project is a starting point for a Flutter application.
+2- Photo page
 
-A few resources to get you started if this is your first Flutter project:
+3 - To do list page
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
