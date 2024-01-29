@@ -10,6 +10,6 @@ page 1 - The basic application provided when opening a project - a button to pre
 
 page 2- Photo page
 
-page 3 - To do list page
+page 3 - To do list
 
 
