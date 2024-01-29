@@ -6,10 +6,10 @@ A small extension of the basic application that comes with opening a new project
 
 Includes a side menu used to navigate between the three pages in the application.
 
-1 - The basic application provided when opening a project - a button to press and the number of clicks on the button scheme.
+page 1 - The basic application provided when opening a project - a button to press and the number of clicks on the button scheme.
 
-2- Photo page
+page 2- Photo page
 
-3 - To do list page
+page 3 - To do list page
 
 
